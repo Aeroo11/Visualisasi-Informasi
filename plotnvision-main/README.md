@@ -32,3 +32,4 @@ Happy visualizing!
 In 150–200 words, discuss how understanding human vision and perception can help AI engineers design better data visualizations and interfaces. Give at least one example from your own plots above.
 
 _Tulis refleksi Anda dalam bahasa Indonesia:_
+- Menurut saya
